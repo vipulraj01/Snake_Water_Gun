@@ -20,7 +20,7 @@ def Gamewin(a,b):
             return True
             
             # check all possibility when computer chose g
-            #
+            ##
         elif a == 'g':
          if b == 's':
             return False

@@ -1,4 +1,4 @@
-# Making snake water gun
+"Making snake water gun"
 import random
 def Gamewin(a,b):
     # if two values are equal declare tie
